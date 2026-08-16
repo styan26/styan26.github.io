@@ -52,77 +52,13 @@ My research has been published in or submitted to leading conferences and journa
 
 Selected Projects
 ======
-<table style="width:100%; border-collapse:collapse;">
-  <thead>
-    <tr style="background-color:#f2f2f2;">
-      <th style="width:55%; text-align:left; padding:8px;">Research Project</th>
-      <th style="width:30%; text-align:left; padding:8px;">Funding / Partner</th>
-      <th style="width:15%; text-align:center; padding:8px;">Period</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td style="padding:8px;">
-        Research on Recommender Systems with Graph-based Transfer Learning
-      </td>
-      <td style="padding:8px;">
-        The National Natural Science Foundation of China
-      </td>
-      <td style="padding:8px; text-align:center; white-space:nowrap;">
-        2024--2026
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:8px;">
-        Intelligent Management and Data Mining Technologies for Aircraft Data
-      </td>
-      <td style="padding:8px;">
-        National Project
-      </td>
-      <td style="padding:8px; text-align:center; white-space:nowrap;">
-        2022--2025
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:8px;">
-        Knowledge Graph-based Fault Case Recommendation for Computing Systems
-      </td>
-      <td style="padding:8px;">
-        Huawei
-      </td>
-      <td style="padding:8px; text-align:center; white-space:nowrap;">
-        2020--2021
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:8px;">
-        Event Extraction
-      </td>
-      <td style="padding:8px;">
-        National Project
-      </td>
-      <td style="padding:8px; text-align:center; white-space:nowrap;">
-        2020--2021
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:8px;">
-        Deep Learning-based Intelligent Knowledge Question Answering
-      </td>
-      <td style="padding:8px;">
-        National Project
-      </td>
-      <td style="padding:8px; text-align:center; white-space:nowrap;">
-        2020
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Research Project                                             | Funding / Partner                                | Period     |
+| ------------------------------------------------------------ | ------------------------------------------------ | ---------- |
+| Research on Recommender Systems with Graph-based Transfer Learning | The National Natural Science Foundation of China | 2024--2026 |
+| Intelligent Management and Data Mining Technologies for Aircraft Data | National Project                                 | 2022--2025 |
+| Knowledge Graph-based Fault Case Recommendation for Computing Systems | Industry Partner: Huawei                         | 2020--2021 |
+| Event Extraction                                             | National Project                                 | 2020--2021 |
+| Deep Learning-based Intelligent Knowledge Question Answering | National Project                                 | 2020       |
 
 
 
