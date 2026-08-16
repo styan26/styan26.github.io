@@ -16,38 +16,37 @@ During my Ph.D., I mainly investigated implicit intent understanding, mixed-init
 
 My work has resulted in publications in leading conferences and journals, including IJCAI, AAAI, ECCV, Information Fusion, Pattern Recognition, and Knowledge-Based Systems. I have also participated in national, university-funded, and industry-sponsored research projects, gaining experience in research problem formulation, algorithm design, experimental analysis, system development, and practical AI applications.
 
+I am currently seeking postdoctoral research opportunities aligned with my research interests. Please feel free to drop me an email if you have a suitable position or would like to discuss potential research opportunities!
+
 
 Education
 ======
 
-I completed my B.S., M.S., and Ph.D. degrees in Software Engineering at Xidian University, with consistently strong academic performance.
+```markdown
+| Degree | Major | Institution | Period |
+|---|---|---|---|
+| Ph.D. | Software Engineering | Xidian University | 2021--2026 |
+| M.S. | Software Engineering | Xidian University | 2020--2021 |
+| B.S. | Software Engineering | Xidian University | 2016--2020 |
+```
 
-Ph.D. in Software Engineering, Xidian University, 2021--2026  
-M.S. in Software Engineering, Xidian University, 2020--2021  
-B.S. in Software Engineering, Xidian University, 2016--2020  
 
 I have strong English proficiency, demonstrated by an IELTS score of 7.0 and a GRE score of 326+3.5, with solid skills in academic reading, writing, and international scholarly communication.
 
 Research Interests
 ======
 
-Proactive Conversational AI
-------
 
-- Mixed-initiative interaction
-- Implicit intent understanding
-- Long-horizon dialogue planning
-- Proactive recommendation
-- Emotional support dialogue
+- Proactive Conversational AI
+- Mixed-Initiative and Adaptive Human--AI Interaction
+- Knowledge Graphs and Knowledge-Grounded Reasoning
+- Emotional Support Dialogue
 
-Knowledge-Grounded Cognitive Computing
-------
 
-- Knowledge graphs and dialog graphs
-- Dialog state tracking
-- Knowledge-enhanced reasoning
-- Root cause analysis
-- Knowledge-based question answering
+Research Experience
+During my Ph.D., I mainly focused on \textbf{proactive conversational AI}, including implicit intent understanding, mixed-initiative interaction, long-horizon dialogue planning, and adaptive dialogue strategies. She also contributed to \textbf{knowledge-grounded cognitive computing}, \textbf{multimodal intelligent interaction}, and other collaborative AI research. 
+The following figure summarizes my Ph.D. research experience. 
+![Research Framework](../asstes/research.png)
 
 Selected Publication Venues
 ======
