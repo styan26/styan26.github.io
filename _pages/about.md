@@ -47,8 +47,27 @@ The following figure summarizes my Ph.D. research experience.
 
 Selected Publication Venues
 ======
-
 My research has been published in or submitted to leading conferences and journals, including IJCAI, AAAI, ECCV, Information Fusion, Pattern Recognition, Knowledge-Based Systems, and Journal of Information and Intelligence.
+
+- **Sitong Yan**, Shengli Song*, Jingyang Li, Shiqi Meng, Guangneng Hu. TITAN: Task-oriented Dialogues with Mixed-Initiative Interactions, The Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI**), 2023. [[Download PDF]](../assets/TITAN.pdf)
+
+- **Sitong Yan**, Shengli Song*, Jingyang Li, Guangneng Hu. Integrating Implicit Desire Fusion for Proactive Conversational Recommendation Systems with LLMs, **Information Fusion**, 2026. [[Download PDF]](../assets/DESIRE.pdf)
+
+- **Sitong Yan**, Shengli Song*, Chengen Lai, Yulong Zhou, Guangneng Hu. Heuristic-Driven Deliberative Reasoning for Long-Horizon Planning with Large Language Models, **Applied Soft Computing** (Major Revision).
+
+- **Sitong Yan**, Shengli Song*, Chengen Lai, Guangneng Hu. eRCA: A Knowledge-driven Explainable Root Cause Analysis Approach for Software Troubleshooting, International Conference on Artificial Intelligence and Information (**ICAI**), 2025.
+
+- Jingyang Li, Shengli Song*, **Sitong Yan**, Guangneng Hu, Chengen Lai, Yulong Zhou. DANTE: Dialog Graph Enhanced Prompt Learning for Conversational Question Answering over KGs, **Knowledge-Based Systems (KBS)**, 2024. [[Download PDF]](../assets/DANTE.pdf)
+
+- Jingyang Li, Shengli Song*, **Sitong Yan**, Guangneng Hu, Chengen Lai, Yulong Zhou. Advanced Dialog State Tracking with Noetic Graphs for Complex Human-Machine Interactions, **Pattern Recognition (PR)**, 2025. [[Download PDF]](../assets/NSRG.pdf)
+
+- Chengen Lai, Shengli Song*, Shiqi Meng, Jingyang Li, **Sitong Yan**, Guangneng Hu. Towards More Faithful Natural Language Explanation using Multi-level Contrastive Learning in VQA, The AAAI Conference on Artificial Intelligence (**AAAI**), 2024. [[Download PDF]](../assets/MCLE.pdf)
+
+- Chengen Lai, Shengli Song*, **Sitong Yan**, Guangneng Hu. Improving Vision and Language Concepts Understanding with Multimodal Counterfactual Samples, European Conference on Computer Vision (**ECCV**), 2024. [[Download PDF]](../assets/COMO.pdf)
+
+- Chengen Lai, Shengli Song*, **Sitong Yan**, Guangneng Hu. Deep Modular Skip-Attention Networks for Multimodal Named Entity Recognition, **Journal of Information and Intelligence (JII)**, 2026. [[Download PDF]](../assets/DESER.pdf)
+
+
 
 Selected Projects
 ======
