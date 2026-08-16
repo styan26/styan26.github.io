@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sitong Yan"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-Hello! I am Sitong Yan. I received my Ph.D. in Software Engineering from Xidian University. My research focuses on intelligent human--AI interaction, with particular interests in proactive conversational AI, knowledge-grounded cognitive computing, and multimodal intelligent interaction. You can find my CV here: [Sitong_CV](../assets.Sitong_CV.pdf)
+Hello! I am Sitong Yan. I received my Ph.D. in Software Engineering from Xidian University. My research focuses on intelligent human--AI interaction, with particular interests in proactive conversational AI, knowledge-grounded cognitive computing, and multimodal intelligent interaction. You can find my CV here: [Sitong_CV](../assets/Sitong_CV.pdf)
 
 During my Ph.D., I mainly investigated implicit intent understanding, mixed-initiative interaction, long-horizon dialogue planning, and adaptive dialogue strategies. I also contributed to research on knowledge graphs, graph-based reasoning, multimodal learning, preference optimization, and other collaborative AI topics.
 
@@ -22,13 +22,12 @@ I am currently seeking postdoctoral research opportunities aligned with my resea
 Education
 ======
 
-```markdown
-| Degree | Major | Institution | Period |
-|---|---|---|---|
-| Ph.D. | Software Engineering | Xidian University | 2021--2026 |
-| M.S. | Software Engineering | Xidian University | 2020--2021 |
-| B.S. | Software Engineering | Xidian University | 2016--2020 |
-```
+
+| Degree | Major                | Institution       | GPA    | Rank    | Period     |
+| ------ | -------------------- | ----------------- | ------ | ------- | ---------- |
+| Ph.D.  | Software Engineering | Xidian University | 3.87/4 | 1/9     | 2021--2026 |
+| M.S.   | Software Engineering | Xidian University | 3.78/4 | 1/48    | 2020--2021 |
+| B.S.   | Software Engineering | Xidian University | 3.7/4  | Top 25% | 2016--2020 |
 
 
 I have strong English proficiency, demonstrated by an IELTS score of 7.0 and a GRE score of 326+3.5, with solid skills in academic reading, writing, and international scholarly communication.
@@ -46,7 +45,7 @@ Research Interests
 Research Experience
 During my Ph.D., I mainly focused on \textbf{proactive conversational AI}, including implicit intent understanding, mixed-initiative interaction, long-horizon dialogue planning, and adaptive dialogue strategies. She also contributed to \textbf{knowledge-grounded cognitive computing}, \textbf{multimodal intelligent interaction}, and other collaborative AI research. 
 The following figure summarizes my Ph.D. research experience. 
-![Research Framework](../asstes/research.png)
+![Research Framework](../assets/research.png)
 
 Selected Publication Venues
 ======
