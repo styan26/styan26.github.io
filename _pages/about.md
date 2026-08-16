@@ -24,10 +24,10 @@ Education
 | ------ | -------------------- | ----------------- | ------ | ------- | ---------- |
 | Ph.D.  | Software Engineering | Xidian University | 3.87/4 | 1/9     | 2021--2026 |
 | M.S.   | Software Engineering | Xidian University | 3.78/4 | 1/48    | 2020--2021 |
-| B.S.   | Software Engineering | Xidian University | 3.7/4  | Top 25% | 2016--2020 |
+| B.S.   | Software Engineering | Xidian University | 3.7/4  | Top 20% | 2016--2020 |
 
 
-I have strong English proficiency, demonstrated by an **IELTS score of 7.0** and a** GRE score of 326+3.5**, with solid skills in academic reading, writing, and international scholarly communication.
+I have strong English proficiency, demonstrated by an **IELTS score of 7.0** and a **GRE score of 326+3.5**, with solid skills in academic reading, writing, and international scholarly communication.
 
 Research Interests
 ======
