@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China, Shannxi, Xi'an"
+locale                   : "China, Shaanxi, Xi'an"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sitong Yan"
 title_separator          : "-"
@@ -27,7 +27,7 @@ author:
   name             : "Sitong Yan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Software Engineering"
-  location         : "China, Xi'an"
+  location         : "Xi'an, Shaanxi, China"
   employer         : "Xidian University"
    # uri              : # URL
   email            : "sitongyan1226@gmail.com" 
