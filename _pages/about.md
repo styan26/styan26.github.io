@@ -43,6 +43,7 @@ Research Interests
 
 
 Research Experience
+======
 During my Ph.D., I mainly focused on proactive conversational AI, including implicit intent understanding, mixed-initiative interaction, long-horizon dialogue planning, and adaptive dialogue strategies. I also contributed to knowledge-grounded cognitive computing, multimodal intelligent interaction, and other collaborative AI research. I have also participated in national, university-funded, and industry-sponsored research projects, gaining experience in research problem formulation, algorithm design, experimental analysis, system development, and practical AI applications.
 The following figure summarizes my Ph.D. research experience. 
 ![Research Framework](../assets/research.png)
