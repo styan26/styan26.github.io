@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sitong Yan (颜思彤)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,20 +55,13 @@ My research has been published in or submitted to leading conferences and journa
 Selected Projects
 ======
 
-- Research on Recommender Systems with Graph-based Transfer Learning  
-The National Natural Science Foundation of China, 2024--2026  
-
-- Intelligent Management and Data Mining Technologies for Aircraft Data  
-National Project, 2022--2025  
-
-- Knowledge Graph-based Fault Case Recommendation for Computing Systems  
-Industry Partner: Huawei, 2020--2021  
-
-- Event Extraction  
-National Project, 2020--2021  
-
-- Deep Learning-based Intelligent Knowledge Question Answering  
-National Project, 2020  
+| Research Project | Funding / Partner | Period |
+|---|---|---|
+| Research on Recommender Systems with Graph-based Transfer Learning | The National Natural Science Foundation of China | 2024--2026 |
+| Intelligent Management and Data Mining Technologies for Aircraft Data | National Project | 2022--2025 |
+| Knowledge Graph-based Fault Case Recommendation for Computing Systems | Huawei | 2020--2021 |
+| Event Extraction | National Project | 2020--2021 |
+| Deep Learning-based Intelligent Knowledge Question Answering | National Project | 2020 |  
 
 
 
