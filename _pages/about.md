@@ -53,8 +53,6 @@ My research has been published in or submitted to leading conferences and journa
 
 - **Sitong Yan**, Shengli Song*, Jingyang Li, Guangneng Hu. Integrating Implicit Desire Fusion for Proactive Conversational Recommendation Systems with LLMs, **Information Fusion**, 2026. [[Download PDF]](../assets/DESIRE.pdf)
 
-- **Sitong Yan**, Shengli Song*, Chengen Lai, Yulong Zhou, Guangneng Hu. Heuristic-Driven Deliberative Reasoning for Long-Horizon Planning with Large Language Models, **Applied Soft Computing** (Major Revision).
-
 - **Sitong Yan**, Shengli Song*, Chengen Lai, Guangneng Hu. eRCA: A Knowledge-driven Explainable Root Cause Analysis Approach for Software Troubleshooting, International Conference on Artificial Intelligence and Information (**ICAI**), 2025.[[Download PDF]](../assets/eRCA.pdf)
 
 - Jingyang Li, Shengli Song*, **Sitong Yan**, Guangneng Hu, Chengen Lai, Yulong Zhou. DANTE: Dialog Graph Enhanced Prompt Learning for Conversational Question Answering over KGs, **Knowledge-Based Systems (KBS)**, 2024. [[Download PDF]](../assets/DANTE.pdf)
