@@ -41,8 +41,10 @@ Research Interests
 
 Research Experience
 ======
-During my Ph.D., I mainly focused on **proactive conversational AI**, including implicit intent understanding, mixed-initiative interaction, long-horizon dialogue planning, and adaptive dialogue strategies. I also contributed to **knowledge-grounded cognitive computing**, **multimodal intelligent interaction**, and other collaborative AI research. I have also participated in national, university-funded, and industry-sponsored research projects, gaining experience in research problem formulation, algorithm design, experimental analysis, system development, and practical AI applications.
-The following figure summarizes my Ph.D. research experience. 
+During her Ph.D., Sitong Yan focused on **proactive human--AI interaction**, aiming to move intelligent systems from reactive responses toward proactive, reliable, and adaptive interaction. Her research established a unified framework introducing implicit intent modeling methods for comprehensive perception, advancing knowledge-grounded reasoning methods for trustworthy reasoning, proposing mixed-initiative and deliberative planning methods for autonomous planning, and designing preference-aware optimization methods for adaptive optimization. The following figure summarizes her Ph.D. research contributions and representative outcomes.
+Together, these studies form a closed-loop research framework of context understanding, knowledge-grounded reasoning, proactive planning, and feedback-driven adaptation.
+
+Her academic work has strengthened her capabilities in problem formulation, methodological innovation, algorithm design, and experimental analysis, leading to publications in leading venues including _IJCAI, AAAI, ECCV, and Information Fusion_. Through national, university-funded, and industry-sponsored projects, she has also gained extensive experience in system development and practical AI applications, with invention patents demonstrating her ability to translate academic research into applicable technological solutions. 
 ![Research Framework](../assets/research.png)
 
 Selected Publication Venues
